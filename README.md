@@ -170,7 +170,7 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 2. Beginners: Have fun with [Introduction to Java Programming][introduction-to-java]. Do as much you can.
 
-3. Beginners: Access modifiers [Access modifiers][java-access-control]
+3. Beginners: [Access modifiers][java-access-control]
 
 4. Beginners: [Operators][java-operators]
 
