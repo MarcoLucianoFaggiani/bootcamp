@@ -416,7 +416,6 @@ The solution must use MongoDB or MySql as repository as well as Spring Boot and 
 Thanks for reading!
 --->
 
-.
 [java-concepts]: https://docs.oracle.com/javase/tutorial/java/concepts/
 [introduction-to-java]: https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/
 [java-access-control]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
