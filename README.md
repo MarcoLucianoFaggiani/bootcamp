@@ -170,13 +170,13 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 2. Beginners: Have fun with [Introduction to Java Programming][introduction-to-java]. Do as much you can.
 
-3. Beginners: Access modifiers [Access modifiers] [java-access-control]
+3. Beginners: Access modifiers [Access modifiers][java-access-control]
 
-4. Beginners: Operators [Operators] [java-operators]
+4. Beginners: [Operators][java-operators]
 
-5. Beginners: Collections [Collections] [java-collections]
+5. Beginners: [Collections][java-collections]
 
-6. Beginners: Collections cheat sheet [java-collections-cheat-sheet]
+6. Beginners: [Collections cheat sheet][java-collections-cheat-sheet]
 
 7. Explore [Design Patterns][design-patterns]. Minimum scope: singleton, factory, abstract factory, strategy, template method, proxy, decorator and builder.
 
