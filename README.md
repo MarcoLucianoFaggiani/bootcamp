@@ -190,29 +190,30 @@ You will commit all your code on a daily basis, when you finish your practice.
 1. Crear 4 clases usando polimorfismo y herencia todas menos una clase hija
 deben implementar el mismo metodo pero responder de forma distinta.
 
-A padre
-B hija extiende a A
-C hija extiende a A
-D hija extiende a A pero no sobreescribe el metodo del A
+A padre.
+B hija extiende a A.
+C hija extiende a A.
+D hija extiende a A pero no sobreescribe el metodo del A.
 
-los metodos de cada clase excepto D van a retornar un String
+1.A los metodos de cada clase excepto D van a retornar un String.
 
-Usar un arraylist en el que guardar todas las clases, recorrerlo y llamar al metodo whoIam (quien soy?)
+1.B Usar un arraylist en el que guardar todas las clases, recorrerlo y llamar al metodo whoIam (quien soy?).
 
-2. Crear 2 interfaces con metodos distintos y 2 implementaciones diferentes para cada una
-una de ellas debera implementar solo una interfaz
-y la otra debera implementar las dos interfaces
-los metodos de las implementaciones deberan imprimir por consola diferentes mensajes
+2. Crear 2 interfaces con metodos distintos y 2 implementaciones diferentes para cada una.
+una de ellas debera implementar solo una interfaz.
+y la otra debera implementar las dos interfaces.
+los metodos de las implementaciones deberan imprimir por consola diferentes mensajes.
 
-A Interface
-B Interface
-C implementa A
-D implementa A y B
-
-los metodos de cada clase deberan imprimir en consola directamente
+A Interface.
+B Interface.
+C implementa A.
+D implementa A y B.
 
 
-crear unit test para ejecutar el codigo el test se puede codear en una java main class
+2A.los metodos de cada clase deberan imprimir en consola directamente.
+
+
+crear unit test para ejecutar el codigo el test se puede codear en una java main class.
 
 
 
