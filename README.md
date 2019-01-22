@@ -421,7 +421,7 @@ Thanks for reading!
 [java-access-control]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
 [java-operators]: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
 [java-collections]: https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html
-[java-collections-cheat-sheet][https://i.stack.imgur.com/EmzXy.gif]
+[java-collections-cheat-sheet]: https://i.stack.imgur.com/EmzXy.gif
 [design-patterns]: https://en.wikipedia.org/wiki/Software_design_pattern
 [design-patterns-cheat-sheet]: http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf
 
