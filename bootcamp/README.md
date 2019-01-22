@@ -170,7 +170,15 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 2. Beginners: Have fun with [Introduction to Java Programming][introduction-to-java]. Do as much you can.
 
-3. Explore [Design Patterns][design-patterns]. Minimum scope: singleton, factory, abstract factory, strategy, template method, proxy, decorator and builder.
+3. Beginners: Access modifiers [Access modifiers] [java-access-control]
+
+4. Beginners: Operators [Operators] [java-operators]
+
+5. Beginners: Collections [Collections] [java-collections]
+
+6. Beginners: Collections cheat sheet [java-collections-cheat-sheet]
+
+7. Explore [Design Patterns][design-patterns]. Minimum scope: singleton, factory, abstract factory, strategy, template method, proxy, decorator and builder.
 
 ##### Extra documentation:
 
@@ -407,6 +415,17 @@ The solution must use MongoDB or MySql as repository as well as Spring Boot and 
 
 Thanks for reading!
 --->
+
+.
+[java-concepts]: https://docs.oracle.com/javase/tutorial/java/concepts/
+[introduction-to-java]: https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/
+[java-access-control]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
+[java-operators]: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
+[java-collections]: https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html
+[java-collections-cheat-sheet][https://i.stack.imgur.com/EmzXy.gif]
+[design-patterns]: https://en.wikipedia.org/wiki/Software_design_pattern
+[design-patterns-cheat-sheet]: http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf
+
 [sdk]: https://www.oracle.com/technetwork/java/javase/downloads/index.html
 [eclipse]: https://www.eclipse.org/downloads/
 [eclipse-j2ee]: https://www.eclipse.org/downloads/packages/release/photon/r/eclipse-ide-java-ee-developers
@@ -419,10 +438,10 @@ Thanks for reading!
 [formatter]: https://raw.githubusercontent.com/spring-projects/spring-batch/master/spring-eclipse-code-conventions.xml
 [importing-formatter]: https://che.eclipse.org/release-note-5-18-993516476315
 [java-definitions]: https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html#t1s1
-[java-concepts]: https://docs.oracle.com/javase/tutorial/java/concepts/
-[introduction-to-java]: https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/
-[design-patterns]: https://en.wikipedia.org/wiki/Software_design_pattern
-[design-patterns-cheat-sheet]: http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf
+
+
+
+
 [mock-objects]: https://en.wikipedia.org/wiki/Mock_object
 [abstract-factory]: https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
 [what-is-maven]: https://maven.apache.org/what-is-maven.html
