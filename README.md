@@ -190,10 +190,10 @@ You will commit all your code on a daily basis, when you finish your practice.
 1. Crear 4 clases usando polimorfismo y herencia todas menos una clase hija
 deben implementar el mismo metodo pero responder de forma distinta.
 
-A - padre
-B - hija extiende a A
-C - hija extiende a A
-D - hija extiende a A pero no sobreescribe el metodo del A
+A padre
+B hija extiende a A
+C hija extiende a A
+D hija extiende a A pero no sobreescribe el metodo del A
 
 los metodos de cada clase excepto D van a retornar un String
 
@@ -204,8 +204,8 @@ una de ellas debera implementar solo una interfaz
 y la otra debera implementar las dos interfaces
 los metodos de las implementaciones deberan imprimir por consola diferentes mensajes
 
-A - Interface
-B - Interface
+A Interface
+B Interface
 C implementa A
 D implementa A y B
 
