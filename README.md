@@ -187,7 +187,7 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 ##### Practice:
 
-1) Crear 4 clases usando polimorfismo y herencia todas menos una clase hija
+1. Crear 4 clases usando polimorfismo y herencia todas menos una clase hija
 deben implementar el mismo metodo pero responder de forma distinta.
 
 A - padre
@@ -199,7 +199,7 @@ los metodos de cada clase excepto D van a retornar un String
 
 Usar un arraylist en el que guardar todas las clases, recorrerlo y llamar al metodo whoIam (quien soy?)
 
-2) Crear 2 interfaces con metodos distintos y 2 implementaciones diferentes para cada una
+2. Crear 2 interfaces con metodos distintos y 2 implementaciones diferentes para cada una
 una de ellas debera implementar solo una interfaz
 y la otra debera implementar las dos interfaces
 los metodos de las implementaciones deberan imprimir por consola diferentes mensajes
