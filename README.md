@@ -39,7 +39,7 @@ exercises**
 
     * [Topic 0: Introduction to Object Oriented Programming Concepts (OOP)](#topic-0-introduction-to-object-oriented-programming-concepts-2-days)
 
-    * [Topic 1: Maven](#topic-1-maven-1-day)
+    * [Topic 1: Maven / Git](#Topic 1: Maven / git (1 day))
 
     * [Topic 2: Test Driven Development](#topic-2-test-driven-development-2-days)
 
@@ -233,8 +233,8 @@ Commit your practice code.
 
 → [index](#index)
 
-<!---
-#### Topic 1: Maven (1 day)
+
+#### Topic 1: Maven / git (1 day)
 
 ##### Reading:
 1. [What is Maven?][what-is-maven]
@@ -261,7 +261,7 @@ Commit your practice code.
 
 → [index](#index)
 
-
+<!---
 #### Topic 2: Test Driven Development (2 days)
 
 ##### Reading:
