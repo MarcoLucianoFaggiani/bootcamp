@@ -39,7 +39,7 @@ exercises**
 
     * [Topic 0: Introduction to Object Oriented Programming Concepts (OOP)](#topic-0-introduction-to-object-oriented-programming-concepts-2-days)
 
-    * [Topic 1: Maven / Git](#Topic 1: Maven / git (1 day))
+    * [Topic 1: Maven / Git](#topic-1-maven-git)
 
     * [Topic 2: Test Driven Development](#topic-2-test-driven-development-2-days)
 
@@ -234,14 +234,16 @@ Commit your practice code.
 → [index](#index)
 
 
-#### Topic 1: Maven / git (1 day)
+#### Topic 1: Maven / Git
 
 ##### Reading:
-1. [What is Maven?][what-is-maven]
+1. [What is Maven?][what-is-maven].
 
-2. Have fun with [Maven in 5 minutes][maven-in-5]. 
+2. Have fun with [Maven in 5 minutes][maven-in-5].
 
-3. Maven: [best practices][maven-best-practices]
+3. [maven lifecycle][maven-life-cycle].
+
+4. Maven: [best practices][maven-best-practices].
 
 ##### Practice:
 
@@ -446,6 +448,7 @@ The solution must use MongoDB or MySql as repository as well as Spring Boot and 
 Thanks for reading!
 --->
 
+<!-- Topic 0 OOP/JAVA  -->
 [java-concepts]: https://docs.oracle.com/javase/tutorial/java/concepts/
 [introduction-to-java]: https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/
 [java-access-control]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
@@ -454,6 +457,15 @@ Thanks for reading!
 [java-collections-cheat-sheet]: https://i.stack.imgur.com/EmzXy.gif
 [design-patterns]: https://en.wikipedia.org/wiki/Software_design_pattern
 [design-patterns-cheat-sheet]: http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf
+
+<!-- Topic 0 Maven/Git  -->
+[what-is-maven]: https://maven.apache.org/what-is-maven.html
+[maven-life-cycle]: https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+[maven-in-5]: https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+[maven-best-practices]: https://books.sonatype.com/mvnref-book/reference/pom-relationships-sect-pom-best-practice.html
+
+
+
 
 [sdk]: https://www.oracle.com/technetwork/java/javase/downloads/index.html
 [eclipse]: https://www.eclipse.org/downloads/
@@ -471,11 +483,12 @@ Thanks for reading!
 
 
 
+
+
 [mock-objects]: https://en.wikipedia.org/wiki/Mock_object
 [abstract-factory]: https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
-[what-is-maven]: https://maven.apache.org/what-is-maven.html
-[maven-in-5]: https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
-[maven-best-practices]: https://books.sonatype.com/mvnref-book/reference/pom-relationships-sect-pom-best-practice.html
+
+
 [tdd]: https://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/
 [java-service]: https://spring.io/guides/gs/rest-service/
 [api-design]: https://www.youtube.com/watch?v=aAb7hSCtvGw
