@@ -1,6 +1,6 @@
 # JAVA Boot Camp
 
-#### Topic 0: Introduction to Object Oriented Programming Concepts (2 days)####
+## Topic 0: Introduction to Object Oriented Programming Concepts
 
 ##### Reading:
 
@@ -16,11 +16,9 @@
 
 6. Beginners: [Collections cheat sheet][java-collections-cheat-sheet]
 
-7. Explore [Design Patterns][design-patterns]. Minimum scope: singleton, factory, abstract factory, strategy, template method, proxy, decorator and builder.
+7. Explore: [Design Patterns][design-patterns]. Minimum scope: singleton, factory, abstract factory, strategy, template method, proxy, decorator and builder.
 
-##### Extra documentation:
-
-* [Design Patterns Card][design-patterns-cheat-sheet]
+8. Explore: [Design Patterns Card][design-patterns-cheat-sheet]
 
 
 ##### Practice:
@@ -54,7 +52,7 @@
 3. Create unit test or a java main class to execute the code.
 
 
-#### Topic 1: Maven / Git
+## Topic 1: Maven / Git
 
 ##### Reading:
 1. [What is Maven?][what-is-maven].
