@@ -1,20 +1,5 @@
 # JAVA Boot Camp
 
-    * [Topic 0: Introduction to Object Oriented Programming Concepts (OOP)](#topic-0-introduction-to-object-oriented-programming-concepts-2-days)
-
-    * [Topic 1: Maven / Git](#topic-1-maven-git)
-
-    * [Topic 2: Test Driven Development](#topic-2-test-driven-development-2-days)
-
-    * [Topic 3: Services](#topic-3-services-2-days)
-
-    * [Topic 4: SQL - MySql](#topic-4-sql---mysql-2-days)
-
-    * [Topic 5: NoSQL - MongoDB](#topic-5-nosql---mongodb-2-days)
-    
-    * [Topic 6: Spring Core & REST](#topic-6-spring-core--rest-3-days)
-    
-
 #### Topic 0: Introduction to Object Oriented Programming Concepts (2 days)####
 
 ##### Reading:
@@ -42,25 +27,25 @@
 
 1. Create 4 classes applying inherithance with the follow structure:
 
-A Parent class implementing a method called whoIam which should return an String with his own name.
+- A Parent class implementing a method called whoIam which should return an String with his own name.
 
-B extends A and override the method whoIam.
+- B extends A and override the method whoIam.
 
-C extends A and override the method whoIam.
+- C extends A and override the method whoIam.
 
-D extends A but it doesn't override the methdo whoIam.
+- D extends A but it doesn't override the methdo whoIam.
 
 1.B Use an ArrayList to store all the classes, iterate and print to the console the return of the method whoIam.
 
 2. Create 2 interface and 2 classes with the following structure:
 
-A Interface.
+- A Interface.
 
-B Interface.
+- B Interface.
 
-C implements A.
+- C implements A.
 
-D implements A and B.
+- D implements A and B.
 
 
 2A. The methods on any implementation should print to console a String.
