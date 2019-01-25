@@ -73,8 +73,15 @@
 2. Customize the Maven project by adding new dependencies: log4j, junit.
 3. Create a simple unit test under src/test/java and run it. Then skip the unit test by property or by adding the skipping test configuration to your pom.xml file.
 
+## Topic 2: Spring
 
+##### Reading:
 
+1. [Spring Home][spring-home]
+
+2. [Spring projects][spring-projects]
+
+3. [Spring core IOC][spring-core-ioc]
 
 <!-- Topic 0 OOP/JAVA  -->
 [java-concepts]: https://docs.oracle.com/javase/tutorial/java/concepts/
@@ -86,9 +93,15 @@
 [design-patterns]: https://en.wikipedia.org/wiki/Software_design_pattern
 [design-patterns-cheat-sheet]: http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf
 
-<!-- Topic 0 Maven/Git  -->
+<!-- Topic 1 Maven/Git  -->
 [what-is-maven]: https://maven.apache.org/what-is-maven.html
 [maven-life-cycle]: https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 [maven-in-5]: https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 [maven-best-practices]: https://books.sonatype.com/mvnref-book/reference/pom-relationships-sect-pom-best-practice.html
 [gitflow]: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+<!-- Topic 2 Spring  -->
+[spring-home]: https://spring.io/
+[spring-projects]: https://spring.io/projects
+[spring-core-ioc]: https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-stereotype-annotations
+
