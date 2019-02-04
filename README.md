@@ -3,7 +3,6 @@
 ## Topic 0: Introduction to Object Oriented Programming Concepts
 
 ##### Reading:
-
 1. Beginners: Java Concepts [basic tutorial][java-concepts] (in case you need it!)
 
 2. Beginners: Have fun with [Introduction to Java Programming][introduction-to-java]. Do as much you can.
@@ -22,7 +21,6 @@
 
 
 ##### Practice:
-
 1. Create 4 classes applying inherithance with the follow structure:
 
 - A Parent class implementing a method called whoIam which should return an String with his own name.
@@ -66,7 +64,6 @@
 5. [git-flow][gitflow]
 
 ##### Practice:
-
 (It is assumed that Maven is already installed and working).
 
 1. Create and build a simple Maven project:
@@ -76,7 +73,6 @@
 ## Topic 2: Spring
 
 ##### Reading:
-
 1. [Spring Home][spring-home]
 
 2. [Spring projects][spring-projects]
@@ -85,9 +81,50 @@
 
 4. [Spring boot][spring-boot]
 
-5. [Spring developers tools][spring-developers-tool]
+5. [Spring web mvc][spring-web-mvc]
 
-6. [Spring web mvc][spring-web-mvn]
+6. [Spring developers tools][spring-developers-tool]
+
+7. [Spring actuator][spring-actuator]
+
+##### Practice:
+1. Create a project including Spring Boot, inheriting from the spring boot parent pom, it should include
+- spring-boot-starter-web
+- spring-boot-starter-test
+- spring-boot-devtools
+- spring-boot-starter-actuator
+2. The project should have a basic Rest Controller which should responde to a GET and a POST requests.
+
+## Topic 3: Persistence
+
+##### Reading:
+1. [JPA][jpa]
+
+2. [JPA Mappings][jpa-mappings]
+
+3. [Hibernate][hibernate]
+
+4. [Eclipselink][eclipselink]
+
+5. [Spring data][spring-data]
+
+6. 
+
+##### Practice:
+1. Include to the previous project
+- spring-boot-starter-data-jpa
+- connection driver
+2. Get it running, map the entities and the entities needs to be generated in the database and requested through HTTP
+3. Suggested structure of the project
+packages: 
+- com.<organization>.<nameofapplication>.model
+- com.<organization>.<nameofapplication>.dao
+- com.<organization>.<nameofapplication>.service
+- com.<organization>.<nameofapplication>.rest
+
+see:
+[Maven Structure][maven-structure]
+[Maven Layout][maven-layout]
 
 <!-- Topic 0 OOP/JAVA  -->
 [java-concepts]: https://docs.oracle.com/javase/tutorial/java/concepts/
@@ -112,3 +149,14 @@
 [spring-core-ioc]: https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html
 [spring-boot]: https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-build-systems.html
 [spring-developers-tool]: https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-devtools.html
+[spring-web-mvc]: https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html
+[spring-actuator]: https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready.html-
+
+<!-- Topic 3 Persistence -->
+[jpa]: https://www.oracle.com/technetwork/java/javaee/documentation/index.html
+[jpa-mapping]: https://en.wikibooks.org/wiki/Java_Persistence
+[hibernate]: https://hibernate.org/orm/documentation/
+[eclipselink]: http://www.eclipse.org/eclipselink/documentation/
+[spring-data]: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
+[maven-structure]: https://maven.apache.org/guides/getting-started/
+[maven-layout]: https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html
