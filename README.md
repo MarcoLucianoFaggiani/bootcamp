@@ -108,8 +108,6 @@
 
 5. [Spring data][spring-data]
 
-6. 
-
 ##### Practice:
 1. Include to the previous project
 - spring-boot-starter-data-jpa
@@ -124,6 +122,7 @@ packages:
 
 see:
 [Maven Structure][maven-structure]
+
 [Maven Layout][maven-layout]
 
 <!-- Topic 0 OOP/JAVA  -->
