@@ -83,6 +83,12 @@
 
 3. [Spring core IOC][spring-core-ioc]
 
+4. [Spring boot][spring-boot]
+
+5. [Spring developers tools][spring-developers-tool]
+
+6. [Spring web mvc][spring-web-mvn]
+
 <!-- Topic 0 OOP/JAVA  -->
 [java-concepts]: https://docs.oracle.com/javase/tutorial/java/concepts/
 [introduction-to-java]: https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/
@@ -104,4 +110,5 @@
 [spring-home]: https://spring.io/
 [spring-projects]: https://spring.io/projects
 [spring-core-ioc]: https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-stereotype-annotations
-
+[spring-boot]: https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-build-systems.html#spring-boot-starter-web
+[spring-developers-tool]: https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-devtools.html
