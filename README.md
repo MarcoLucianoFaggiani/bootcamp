@@ -121,6 +121,7 @@ packages:
 - com.(organization).(nameofapplication).rest
 
 see:
+
 [Maven Structure][maven-structure]
 
 [Maven Layout][maven-layout]
