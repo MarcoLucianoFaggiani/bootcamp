@@ -117,10 +117,10 @@
 2. Get it running, map the entities and the entities needs to be generated in the database and requested through HTTP
 3. Suggested structure of the project
 packages: 
-- com.<organization>.<nameofapplication>.model
-- com.<organization>.<nameofapplication>.dao
-- com.<organization>.<nameofapplication>.service
-- com.<organization>.<nameofapplication>.rest
+- com.(organization).(nameofapplication).model
+- com.(organization).(nameofapplication).dao
+- com.(organization).(nameofapplication).service
+- com.(organization).(nameofapplication).rest
 
 see:
 [Maven Structure][maven-structure]
@@ -154,7 +154,7 @@ see:
 
 <!-- Topic 3 Persistence -->
 [jpa]: https://www.oracle.com/technetwork/java/javaee/documentation/index.html
-[jpa-mapping]: https://en.wikibooks.org/wiki/Java_Persistence
+[jpa-mappings]: https://en.wikibooks.org/wiki/Java_Persistence
 [hibernate]: https://hibernate.org/orm/documentation/
 [eclipselink]: http://www.eclipse.org/eclipselink/documentation/
 [spring-data]: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
