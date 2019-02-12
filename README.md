@@ -175,7 +175,7 @@ https://photos.google.com/u/1/photo/AF1QipN-qzhxuQx79mtDymA5MYXZBTQ4uX666cWdYpwF
 - As a User(Client) I should be able to see my games and my mods.
 - As a User(Client or producer) I should be able to see the games, the users, the mods.
 - As a User(Client or producer) of the platform I should be able to search by id or name Games, Users, Mods.
- -As a User(Client or producer) of the platform I should be able to see all the Mods associated to a game by game id or name.
+- As a User(Client or producer) of the platform I should be able to see all the Mods associated to a game by game id or name.
 
 ### Optional
 - Error/Exception handling, as a User of the system I would like to see a gracefully error handling which can lead me to
